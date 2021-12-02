@@ -34,6 +34,7 @@ Dieser Datenpunkt wird von der App abgefragt und die Liste daraus erstellt.
   
 ## Konfiguration
   
+0_userdata.0.wearos  
 ```
 {
   "states": [
