@@ -89,10 +89,14 @@ Dieser Datenpunkt wird von der App abgefragt und die Liste daraus erstellt.
   ]
 }
 ```
-  
+
+Der fertige JSON-Code hier reinkopieren http://jsonviewer.stack.hu/ und "remove whitespaces" ausführen. Dann den Code in das Objekt 0_userdata.0.wearos schreiben.
+
+
 Verfügare "Types":  
 "type": "text"   - Zeigt nur einen Text an, icon_on icon_off oder readonly wird ignoriert.  
 "type": "toggle" - Zeigt den status ON/OFF an und setzt den Status per Klick wenn readonly = false.  
 
 Verfügbare "Icons":
+https://github.com/Schnup89/POC_ioBroker_Wear/tree/main/app/src/main/res/drawable - Alle Icons beginnend mit "icon".  
 
