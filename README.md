@@ -3,7 +3,7 @@
 Ich stelle euch hier meinen Source-Code und die APK Datei für Android WearOS Smartwatches zur Verfügung.  
 Nachdem ich mir die Galaxy Watch4 zugelegt habe hatte ich das Bedürfnis Lampen und sonstige Dinge aus dem ioBroker mit der Uhr zu schalten und zu prüfen.  
   
-Ich habe die APP für mich selbst entwickelt, ich bin Hobby-Programmierer und weit davon entfernt ressourcensparenden oder schönen Code zu generieren :)  
+Ich habe die APP für mich selbst entwickelt, ich bin Hobby-Programmierer und weit davon entfernt ressourcensparend oder schönen Code zu generieren :)  
   
 ## Installation / Voraussetzung
   
