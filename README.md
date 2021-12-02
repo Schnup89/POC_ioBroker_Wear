@@ -1,11 +1,12 @@
 # Android WearOS App - ioBroker "VIS"
   
-[a relative link](github/20211202_231742.jpg)  
+![APP](github/20211202_231742.jpg?raw=true "Optional Title")
   
 Ich stelle euch hier meinen Source-Code und die APK Datei für Android WearOS Smartwatches zur Verfügung.  
 Nachdem ich mir die Galaxy Watch4 zugelegt habe hatte ich das Bedürfnis Lampen und sonstige Dinge aus dem ioBroker mit der Uhr zu schalten und zu prüfen.  
   
-Ich habe die APP für mich selbst entwickelt, ich bin Hobby-Programmierer und weit davon entfernt ressourcensparend oder schönen Code zu generieren :)  
+Ich habe die APP für mich selbst entwickelt, ich bin Hobby-Programmierer und weit davon entfernt ressourcensparend oder schönen Code zu generieren :)  ![20211202_231742](https://user-images.githubusercontent.com/28166743/144513702-75f38e54-e27a-454d-b7ef-3884560a52f9.jpg)
+
   
 ## Installation / Voraussetzung
   
