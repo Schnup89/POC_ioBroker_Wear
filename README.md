@@ -109,3 +109,6 @@ https://github.com/Schnup89/POC_ioBroker_Wear/tree/main/app/src/main/res/drawabl
 Beim starten der App unter "Einstellungen" kann den Host und den Port vom SimpleAPI-Adapter.  
 
 ![APP](github/20211202_231813.jpg?raw=true "Optional Title")
+
+## APK installieren
+https://youtu.be/8HsfWPTFGQI
