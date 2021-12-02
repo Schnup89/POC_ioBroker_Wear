@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Schnup/AndroidStudioProjects/ioBrokerWear/app/src/main/res/drawable/icon_arrow-down.xml" value="0.609375" />
+        <entry key="..\:/Users/Schnup/AndroidStudioProjects/ioBrokerWear/app/src/main/res/drawable/icon_bulb_off.xml" value="0.609375" />
+        <entry key="..\:/Users/Schnup/AndroidStudioProjects/ioBrokerWear/app/src/main/res/drawable/icon_bulb_on.xml" value="0.609375" />
+        <entry key="..\:/Users/Schnup/AndroidStudioProjects/ioBrokerWear/app/src/main/res/drawable/icon_unknown.xml" value="0.609375" />
+        <entry key="..\:/Users/Schnup/AndroidStudioProjects/ioBrokerWear/app/src/main/res/drawable/outline_settings_white_18dp.xml" value="1.5625" />
+        <entry key="..\:/Users/Schnup/AndroidStudioProjects/ioBrokerWear/app/src/main/res/drawable/roundlistitem.xml" value="0.59375" />
+        <entry key="..\:/Users/Schnup/AndroidStudioProjects/ioBrokerWear/app/src/main/res/layout/activity_main.xml" value="0.18695652173913044" />
+        <entry key="..\:/Users/Schnup/AndroidStudioProjects/ioBrokerWear/app/src/main/res/layout/activity_settings.xml" value="0.5653710247349824" />
+        <entry key="..\:/Users/Schnup/AndroidStudioProjects/ioBrokerWear/app/src/main/res/layout/iostate_list_items.xml" value="0.7625" />
+        <entry key="..\:/Users/Schnup/AndroidStudioProjects/ioBrokerWear/app/src/main/res/layout/main_menu_item.xml" value="1.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
