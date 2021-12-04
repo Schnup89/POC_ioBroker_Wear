@@ -112,3 +112,7 @@ Beim starten der App unter "Einstellungen" kann den Host und den Port vom Simple
 
 ## APK installieren
 https://youtu.be/8HsfWPTFGQI
+
+## Schnelltaste
+Damit die APP schnell geöffnet werden habe ich dies auf "Doppelklick" der Uhr-Taste gelegt.  
+Einstellungen - Erweiterte Funktionen - Anpassen von Tasten > Hier kann die App verlinkt werden
