@@ -1,5 +1,11 @@
 Anmerkung: Der Ansatz per SimpleAdapter war falsch. -> Es wird versucht mit SocketIO die Kommunikation schöner zu lösen
 
+# DEPRECATED
+Hier die neue App: https://github.com/Schnup89/ioBroker_WearV2  
+
+
+
+
 # Android WearOS App - ioBroker "VIS"
   
 ![APP](github/20211202_231742.jpg?raw=true "Optional Title")
